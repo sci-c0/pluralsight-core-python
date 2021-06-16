@@ -10,3 +10,6 @@
 [submodule "introspection"]
 	path = 05_introspection
 	url = git@github.com:Nishant-Mishra/introspection.git
+[submodule "iterators-iterables-collections"]
+	path = 06_iterators-iterables-collections
+	url = git@github.com:Nishant-Mishra/python-iterators-iterables-collections.git
