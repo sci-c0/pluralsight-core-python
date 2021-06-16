@@ -1,0 +1,12 @@
+[submodule "organizing-large-programs"]
+	path = 02_organizing-large-programs
+	url = git@github.com:Nishant-Mishra/organizing-larger-programs.git
+[submodule "functional-programming"]
+	path = 03_functional-programming
+	url = git@github.com:Nishant-Mishra/functional-programming.git
+[submodule "classes-and-oop"]
+	path = 04_classes-oop
+	url = git@github.com:Nishant-Mishra/python-classes.git
+[submodule "introspection"]
+	path = 05_introspection
+	url = git@github.com:Nishant-Mishra/introspection.git
